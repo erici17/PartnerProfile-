@@ -6,3 +6,5 @@ Interests Are Comic Books and Anime and His Passion is Movie Directing
 * _Favorite Tv show is Dragon Ball Z_
 * _a Fun Fact is that he was Born Early_
 * This Profile was Created by [Eric Islar]
+
+git remote set-url Origin <https://github.com/erici17/PartnerProfile/blob/main/partnerProfile.md>
